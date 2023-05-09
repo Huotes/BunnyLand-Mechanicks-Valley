@@ -1,0 +1,1 @@
+if keyboard_check_pressed(ord("P")){layer_tilemap_destroy("telhado");}

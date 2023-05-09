@@ -1,0 +1,11 @@
+global.dialogo = false;
+global.cestapick = false;
+global.macapick = false;
+global.qtdmaca = 0;
+global.tudofeito = false;
+global.coinpick = false;
+global.qtdcoin = 0;
+global.missao1 = false;
+global.missao2 = false;
+global.missao3 = false;
+global.ultima = false;

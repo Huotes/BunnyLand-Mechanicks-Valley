@@ -1,0 +1,1 @@
+picada = false;
